@@ -5,7 +5,7 @@ A systematic literature review analyzing blockchain applications for enhancing r
 
 ## Research Scope
 - **Papers Analyzed:** 25 peer-reviewed research articles
-- **Research Period:** 2019-2024
+- **Research Period:** 2024
 - **Team Size:** 4 members
 
 ## Key Research Areas
